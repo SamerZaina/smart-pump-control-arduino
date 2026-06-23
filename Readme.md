@@ -107,19 +107,19 @@ Proteus/Motor_Terminal_Control.hex
 
 ## Default Mode
 
-![Default](Images/default mode .png)
+![Default](Images/default_mode.png)
 
 ## Pump ON
 
-![ON](Images/on mode.png)
+![ON](Images/on_mode.png)
 
 ## Pump OFF
 
-![OFF](Images/off mode.png)
+![OFF](Images/off_mode.png)
 
 ## Full Source Code
 
-![Code](Images/Full Code.png)
+![Code](Images/full_Code.png)
 
 ---
 
